@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-langchain = "^0.1.20"
+langchain = "0.1.14"
 
 
 [build-system]
